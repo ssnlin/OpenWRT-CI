@@ -52,6 +52,7 @@ UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "master"
 UPDATE_PACKAGE "kucat-config" "sirpdboy/luci-app-kucat-config" "master"
 UPDATE_PACKAGE "store" "linkease/istore" "main" "" "luci-app-store luci-lib-taskd"
 UPDATE_PACKAGE "lucky" "gdy666/luci-app-lucky" "main" 
+UPDATE_PACKAGE "filetransfer" "f8q8/luci-app-filetransfer"
 
 UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
 UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"
