@@ -1,6 +1,6 @@
 #istore
 CONFIG_PACKAGE_xz-utils=y
-CONFIG_PACKAGE_luci-app-store=y
+CONFIG_PACKAGE_luci-app-store=m
 CONFIG_PACKAGE_luci-lib-taskd=y
 CONFIG_PACKAGE_istore-repo=y
 CONFIG_PACKAGE_lua=y
