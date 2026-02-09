@@ -1,5 +1,4 @@
 #istore
-CONFIG_PACKAGE_xz-utils=y
 CONFIG_PACKAGE_luci-app-store=y
 
 #科学插件调整
