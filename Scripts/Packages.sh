@@ -56,6 +56,7 @@ UPDATE_PACKAGE "kucat-config" "sirpdboy/luci-app-kucat-config" "master"
 UPDATE_PACKAGE "shadcn" "eamonxg/luci-theme-shadcn" "main"
 UPDATE_PACKAGE "lucky" "gdy666/luci-app-lucky" "main" 
 UPDATE_PACKAGE "iptv" "pbs05/openwrt-pon-userspace" "main" 
+UPDATE_PACKAGE "rtp2http" "stackia/rtp2httpd" "main" 
 
 UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"
 UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
